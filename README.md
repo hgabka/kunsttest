@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kunstmaan Bundles Standard Edition
 ==================================
 
@@ -12,3 +13,6 @@ Enjoy!
 [![Latest Stable Version](https://poser.pugx.org/kunstmaan/bundles-standard-edition/v/stable.png)](https://packagist.org/packages/kunstmaan/bundles-standard-edition)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Kunstmaan/KunstmaanBundlesCMS/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Kunstmaan/KunstmaanBundlesCMS/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/Kunstmaan/KunstmaanBundlesStandardEdition/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Kunstmaan/KunstmaanBundlesStandardEdition/?branch=master)
+=======
+# kunsttest
+>>>>>>> 2390dd33c3581d8b5ed58bb04cbfd20fa92c018e
